@@ -1,0 +1,19 @@
+[project]
+name = "order-emojis-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.3.0",
+    "emoji>=2.15.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "notebook>=7.4.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "torch>=2.9.0",
+    "transformers>=4.57.1",
+    "umap-learn>=0.5.9.post2",
+]
